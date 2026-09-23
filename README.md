@@ -1,6 +1,6 @@
 # Mohammed Alislam
 
-**Network engineering and IT operations | CCNP Enterprise | New York City**
+**Network engineering and IT operations | CCNP Enterprise | **
 
 I work on the network side of keeping people connected: Cisco switching and routing, firewalls, wireless, VPNs, and remote-site troubleshooting. My experience includes financial services, healthcare, broadcast operations, and distributed club networks.
 
