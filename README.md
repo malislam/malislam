@@ -36,4 +36,4 @@ My cloud work has focused on Azure/AWS network connectivity. The Linux edge-devi
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/malislam/) · [Email](mailto:malislam@outlook.com)
+[LinkedIn](https://linkedin.com/in/malislam/) 
